@@ -39,28 +39,28 @@ I am a final-year PhD student at King's College London, supervised by <a href="h
 
 [Cross Domain Policy Transfer with Effect Cycle-Consistency](https://arxiv.org/pdf/2403.02018)
 
-**Ruiqi Zhu**, Tianhong Dai, Oya Celiktutan
+**Ruiqi Zhu**, Tianhong Dai, Oya Celiktutan </div></div>
 
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">IROS 2023</div><img src='paper_images/irdec.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
 [Learning to Solve Tasks with Exploring Prior Behaviours](https://arxiv.org/pdf/2307.02889)
 
-**Ruiqi Zhu**, Siyuan Li, Tianhong Dai, Chongjie Zhang, Oya Celiktutan
+**Ruiqi Zhu**, Siyuan Li, Tianhong Dai, Chongjie Zhang, Oya Celiktutan </div></div>
 
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">ICRA 2022</div><img src='paper_images/icra2022.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
 [Human-Robot Shared Control for Surgical Robot Based on Context-Aware Sim-to-Real Adaptation](https://arxiv.org/pdf/2204.11116)
 
-Dandan Zhang, Zicong Wu, Junhong Chen, **Ruiqi Zhu**, et.al
+Dandan Zhang, Zicong Wu, Junhong Chen, **Ruiqi Zhu**, et.al </div></div>
 
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">IROS 2020</div><img src='paper_images/iros2020.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
 [Supervised semi-autonomous control for surgical robot based on bayesian optimization](https://par.nsf.gov/servlets/purl/10294547)
 
-Junhong Chen, Dandan Zhang, Adnan Munawar, **Ruiqi Zhu**, et.al
+Junhong Chen, Dandan Zhang, Adnan Munawar, **Ruiqi Zhu**, et.al </div></div>
 
 <!-- [**Project**](https://scholar.google.com/citations?view_op=view_citation&hl=zh-CN&user=DhtAFkwAAAAJ&citation_for_view=DhtAFkwAAAAJ:ALROH1vI_8AC) <strong><span class='show_paper_citations' data='DhtAFkwAAAAJ:ALROH1vI_8AC'></span></strong>
 - Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 

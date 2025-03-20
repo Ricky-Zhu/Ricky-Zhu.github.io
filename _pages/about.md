@@ -32,7 +32,7 @@ I am a final-year PhD student at King's College London, supervised by <a href="h
  
 
 
-# 📝 Selected Publications / Preprints
+# 📝 Publications
 
 
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">ICRA 2024</div><img src='paper_images/ecc.png' alt="sym" width="75%"></div></div>

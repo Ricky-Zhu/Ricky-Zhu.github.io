@@ -34,6 +34,17 @@ I am a final-year PhD student at King's College London, supervised by <a href="h
 
 # 📝 Publications
 
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">Preprint</div><img src='paper_images/OMLA.png' alt="sym" width="75%"></div></div>
+<div class='paper-box-text' markdown="1">
+
+[Efficient Continual Adaptation of Pretrained Robotic Policy with Online Meta-Learned Adapters](https://arxiv.org/abs/2503.18684)
+
+**Ruiqi Zhu**, Endong Sun, Guanhe Huang, Oya Celiktutan 
+
+[**Project**](https://ricky-zhu.github.io/OMLA/) 
+  </div>
+</div>
+
 
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">ICRA 2024</div><img src='paper_images/ecc.png' alt="sym" width="75%"></div></div>
 <div class='paper-box-text' markdown="1">
@@ -41,6 +52,8 @@ I am a final-year PhD student at King's College London, supervised by <a href="h
 [Cross Domain Policy Transfer with Effect Cycle-Consistency](https://arxiv.org/pdf/2403.02018)
 
 **Ruiqi Zhu**, Tianhong Dai, Oya Celiktutan 
+
+[**Project**](https://ricky-zhu.github.io/effect_cycle_consistency/)| [**Code**](https://github.com/Ricky-Zhu/effect_consistency)
   </div>
 </div>
 
@@ -50,6 +63,8 @@ I am a final-year PhD student at King's College London, supervised by <a href="h
 [Learning to Solve Tasks with Exploring Prior Behaviours](https://arxiv.org/pdf/2307.02889)
 
 **Ruiqi Zhu**, Siyuan Li, Tianhong Dai, Chongjie Zhang, Oya Celiktutan 
+
+[**Code**](https://github.com/Ricky-Zhu/IRDEC)
   </div>
 </div>
 
